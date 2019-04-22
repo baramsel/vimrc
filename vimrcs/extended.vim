@@ -29,7 +29,8 @@ set guioptions-=L
 
 " Colorscheme
 set background=dark
-colorscheme peaksea
+colorscheme molokai
+" let g:solarized_termcolors=256
 
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
